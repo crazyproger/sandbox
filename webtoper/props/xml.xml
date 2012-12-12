@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root>
-    <val attr=""></val>
-    <nlsbundle>my.some.package.nls.files.secondNls</nlsbundle>
-    <nlsbundle>
-        
-    </nlsbundle>
-    <class>a.b.c.d.Test</class>
-</root>

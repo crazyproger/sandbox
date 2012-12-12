@@ -1,2 +1,0 @@
-my.some.package.nls.files.secondNls
-NLS_INCLUDES
