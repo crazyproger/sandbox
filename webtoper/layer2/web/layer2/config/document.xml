@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config version="1.0">
+    <scope>
+        <component id="Document"
+                   extends="AbstractDocument:/layer1/config/document.xml">
+            <nlsbundle>my.some.package.nls.files.firstNls</nlsbundle>
+        </component>
+        <component id="ImpDocument"
+                   extends="Document:layer2/config/document.xml">
+            <nlsbundle>my.some.package.nls.files.thirdsNls</nlsbundle>
+        </component>
+    </scope>
+</config>

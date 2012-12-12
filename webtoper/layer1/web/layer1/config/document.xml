@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config version="1.0">
+    <scope>
+        <component id="AbstractDocument"
+                   extends="AbstractComponent:/abstract.xml">
+            <nlsbundle>my.some.package.nls.files.secondNls</nlsbundle>
+        </component>
+    </scope>
+</config>
