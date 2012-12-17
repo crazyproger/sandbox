@@ -9,5 +9,11 @@
                    extends="Document:layer2/config/document.xml">
             <nlsbundle>my.some.package.nls.files.thirdsNls</nlsbundle>
         </component>
+        <component modifies="Document:layer2/config/document.xml">
+            <nlsbundle>my.some.package.nls.files.thirdsNls</nlsbundle>
+            <pages>
+                <start>/index.jsp</start>
+            </pages>
+        </component>
     </scope>
 </config>
